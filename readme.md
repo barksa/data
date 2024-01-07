@@ -8,7 +8,7 @@ pip install selenium
 
 <https://chromedriver.chromium.org/downloads>
 
-1. dashboard에서 chrome 버전에 맞는 chromedriver 설치
-2. 압축풀기
-3. 경로 설정 (원하는 경로)
-> 본인 로컬 디스크 > Program Files에 ChromeDriver 폴더를 만든 후, 안에 chromedriver.exe 저장함 
+1. Install appropriate chromedriver for your chrome from dashboard.
+2. Unzip. 
+3. Set path. (Anyway you want.)
+> Create a ChromeDriver folder in your Local disk > Program Files, and save chromedriver.exe inside it.
