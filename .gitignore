@@ -234,3 +234,27 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,python
 
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+**/.vscode
+
+# Data & Models
+*.h5
+*.tar
+*.tar.gz
+/data/
+
+# Logs & Envs
+/logs/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
