@@ -248,6 +248,7 @@ $RECYCLE.BIN/
 *.tar
 *.tar.gz
 /data/
+/models/
 
 # Logs & Envs
 /logs/
